@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@800&display=swap");
+body {
+  margin: 0;
+  font-family: "Karla", Arial, sans-serif;
+  background: #1c1c1c;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.container {
+  background: #1f2937;
+  margin: 62px 64px;
+  padding: 40px 60px;
+  width: 1000px;
+  height: 1000px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Karla", Arial, sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  width: 354px;
+  height: 80px;
+  margin: 0 0 5px 0;
+  text-align: left;
+}
+
+.highlight {
+  color: #4adf86;
+  margin: 0 0 32px 0;
+  font-size: 40px;
+  font-weight: 400;
+  text-align: left;
+}
+
+p {
+  width: 372px;
+  height: 28px;
+  font-family: Inter, Arial, sans-serif;
+  color: #d5d4d8;
+  line-height: 28px;
+  font-size: 20px;
+}
+
+button {
+  background: #10b981;
+  color: #fff;
+  padding: 15px 9px 17px;
+  font-size: 1.1em;
+  font-family: "Karla", Arial, sans-serif;
+  cursor: pointer;
+  margin: 0 0 40px 0;
+  align-self: flex-start;
+  border-radius: 6px;
+}
+
+button:hover {
+  background: #0ea672;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #2f3e53;
+  width: 100%;
+  margin: 0 0 40px 0;
+  display: block;
+}
+
+.password-row {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+  margin-top: 0;
+  justify-content: flex-start;
+}
+
+input[type="text"] {
+  width: 211px;
+  height: 39px;
+  margin: 0;
+  font-size: 1.1em;
+  background: #273549;
+  color: #4adf86;
+  text-align: center;
+  border-radius: 6px;
+  font-family: "Karla", Arial, sans-serif;
+}
