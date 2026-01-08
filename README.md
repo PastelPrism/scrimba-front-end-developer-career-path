@@ -42,6 +42,12 @@ Soon
 | [Part 2](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/javascript-challenges-part-2) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/javascript-challenges-part2/) | HTML, CSS, JavaScript | Original | ✅ |
 | [Part 3](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/javascript-challenges-part-3) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/javascript-challenges-part3/) | HTML, CSS, JavaScript | Original | ✅ |
 
+#### **_Accessible development_**   
+
+| Final Challenge | Live page | Languages | Assignment | Progress |
+| --- | --- | --- | --- | --- |    
+| [Final Challenge](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/final-challenge) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/final-challenge/) | HTML, CSS | Original | ✅ |
+
 
 
 
