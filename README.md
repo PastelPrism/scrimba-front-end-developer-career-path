@@ -33,8 +33,8 @@ Soon
 | Solo Projects | Live page | Languages | Assignment | Progress |
 | --- | --- | --- | --- | --- |    
 | [Basketball Scoreboard](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/basketball-scoreboard) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/basketball-scoreboard/) | HTML, CSS, JavaScript | Original | ✅ |
-| [Password Generator](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/password-generator) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/password-generator/) | HTML, CSS, JavaScript | Original | 🏗️ |
-| [Unit Converter](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/unit-converter) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/unit-converter/) | HTML, CSS, JavaScript | Original | ❌ | 
+| [Password Generator](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/password-generator) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/password-generator/) | HTML, CSS, JavaScript | Original | ✅ |
+| [Unit Converter](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/unit-converter) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/unit-converter/) | HTML, CSS, JavaScript | Original | 🏗️ | 
 
 | JavaScript Challenges | Live page | Languages | Assignment | Progress |
 | --- | --- | --- | --- | --- | 

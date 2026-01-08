@@ -6,12 +6,13 @@ import { getDatabase,
          remove } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js"
 
 const firebaseConfig = {
-    databaseURL: "https://leads-tracker-app-default-rtdb.europe-west1.firebasedatabase.app/"
+    databaseURL: "https://scrimba-assignments-default-rtdb.europe-west1.firebasedatabase.app/"
 }
 
 const app = initializeApp(firebaseConfig)
 const database = getDatabase(app)
 const referenceInDB = ref(database, "leads")
+
 
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
