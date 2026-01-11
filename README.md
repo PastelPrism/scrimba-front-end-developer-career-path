@@ -52,7 +52,8 @@ Soon
 
 | Practice Projects | Live page | Languages | Assignment | Progress |
 | --- | --- | --- | --- | --- |
-| [Build a NFT site](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/build-a-nft-site) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/build-a-nft-site/) | HTML, CSS, JavaScript | Original | 🏗️ |
+| [Build a NFT site](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/build-a-nft-site) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/build-a-nft-site/) | HTML, CSS, JavaScript | Original | ✅ |
+| [CSS Fundamentals: Challenges](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/css-fundamentals) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/css-fundamentals/) | HTML, CSS | Original | ✅ |
 | [Build a Coworking Space Site](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/build-a-coworking-space-site) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/build-a-coworking-space-site/) | HTML, CSS,| Original | ❌ |
 
 
