@@ -56,7 +56,9 @@ Soon
 | [CSS Fundamentals: Challenges](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/css-fundamentals) | [Live](https://pastelprism.github.io/scrimba-front-end-developer-career-path/css-fundamentals/) | HTML, CSS | Original | ✅ |
 | [Build a Coworking Space Site](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/build-a-coworking-space-site) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/build-a-coworking-space-site/) | HTML, CSS,| Original | ❌ |
 
-
+| Solo Project | Live page | Languages | Assignment | Progress |  
+| --- | --- | --- | --- | --- |  
+| [Oldegram](https://github.com/PastelPrism/scrimba-front-end-developer-career-path/tree/main/Oldegram) | [❌](https://pastelprism.github.io/scrimba-front-end-developer-career-path/oldegram/) | HTML, CSS, JavaScript | Original | ❌ |  
 
 
 
